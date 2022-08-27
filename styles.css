@@ -3,13 +3,15 @@
 body {
 	background: black;
 	font-family: "Montserrat";
+	display: grid;
+	place-items: center;
+	height: 100vh;
 }
 
 .postcard {
 	background: white;
 	width: 400px;
 	height: 300px;
-	margin: auto;
 }
 
 .postcard-header {
